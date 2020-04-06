@@ -1,6 +1,6 @@
 # key_caps
 
-![example_image](imgs/example_keys.png)
+![example_image](imgs/example_image.png)
 
 ## Install
 - http://www.openscad.org/downloads.html
